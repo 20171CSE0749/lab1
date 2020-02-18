@@ -1,0 +1,29 @@
+
+body{
+background-color:linen;
+}
+h1{
+color:maroon;
+margin-lift:40px;
+}
+body{
+background-image:url("/home/Sem6B12/20171cse0749/images.jpeg");
+background-repeat:repeat;
+background-attachment:scroll;}
+h1 {
+  text-decoration: overline;
+}
+
+h2 {
+  text-decoration: line-through;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h4 {
+  text-decoration: underline overline;
+}
+
+
